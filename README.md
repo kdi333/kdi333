@@ -17,16 +17,20 @@
 <img src="https://img.shields.io/badge/mariaDB-75bb3f?style=for-the-badge&logo=mariaDB&logoColor=white">
 <img src="https://img.shields.io/badge/qubrid-1f883d?style=for-the-badge&logo=qubrid&logoColor=white">
 <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white">
+  <img src="https://img.shields.io/badge/mssql-1f883d?style=for-the-badge&logo=mssql&logoColor=white">
   <br/>
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse%20IDE&logoColor=white">
+  <img src="https://img.shields.io/badge/intellij-2C2255?style=for-the-badge&logo=intellij%20IDE&logoColor=white">
+  <img src="https://img.shields.io/badge/vscode-2C2255?style=for-the-badge&logo=vscode%20IDE&logoColor=white">
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=aws&logoColor=white">
+
 <br/>
-  <img src="https://img.shields.io/badge/여러가지넣어보자-8A2BE2">
+  <img src="https://img.shields.io/badge/hello%20world-8A2BE2">
 <br/>
   <img alt="Eclipse Marketplace" src="https://img.shields.io/eclipse-marketplace/last-update/:name">
 <br/>
 <img src="https://img.shields.io/badge/LINUX-8A2BE2?style=for-the-badge&logo=linux&label=Linux&logoColor=white">
+<img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=aws&logoColor=white">
 
 
 
