@@ -22,7 +22,8 @@
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse%20IDE&logoColor=white">
   <img src="https://img.shields.io/badge/intellij-2C2255?style=for-the-badge&logo=intellij%20IDE&logoColor=white">
   <img src="https://img.shields.io/badge/vscode-2C2255?style=for-the-badge&logo=vscode%20IDE&logoColor=white">
-<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/git-181717?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/svn-181717?style=for-the-badge&logo=svn&logoColor=white">
 
 <br/>
   <img src="https://img.shields.io/badge/hello%20world-8A2BE2">
