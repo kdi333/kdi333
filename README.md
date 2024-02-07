@@ -9,6 +9,7 @@
   <img src="https://img.shields.io/badge/PHP-1182c3?style=for-the-badge&logo=php&logoColor=white">
   <img src="https://img.shields.io/badge/c-1182c3?style=for-the-badge&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/c++-1182c3?style=for-the-badge&logo=c++&logoColor=white">
+<br/>
   <img src="https://img.shields.io/badge/html-1182c3?style=for-the-badge&logo=html&logoColor=white">
   <img src="https://img.shields.io/badge/css-1182c3?style=for-the-badge&logo=css&logoColor=white">
   <img src="https://img.shields.io/badge/js-1182c3?style=for-the-badge&logo=js&logoColor=white">
