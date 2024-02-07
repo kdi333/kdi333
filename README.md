@@ -5,7 +5,7 @@
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/Spring-1182c3?style=for-the-badge&logo=spring&logoColor=white">
   <img src="https://img.shields.io/badge/Spring-1182c3?style=for-the-badge&logo=springboot&logoColor=white">
-  <img src="https://img.shields.io/badge/PHP-1182c3?style=for-the-badge&logo=phython&logoColor=white">
+  <img src="https://img.shields.io/badge/python-1182c3?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/PHP-1182c3?style=for-the-badge&logo=php&logoColor=white">
   <img src="https://img.shields.io/badge/c-1182c3?style=for-the-badge&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/c++-1182c3?style=for-the-badge&logo=c++&logoColor=white">
